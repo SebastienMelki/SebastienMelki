@@ -22,20 +22,15 @@ A modern self-hosted digital library inspired by Alexandria. Unified media repos
 
 ## 💻 Technical Expertise
 
-**Primary Language:** Go (Golang) - Expert level
+**Primary Language:** [Go](https://golang.org/) - Expert level
 
 **Backend & Infrastructure:**
-- **Cloud:** AWS (EC2, ECS, Lambda, DynamoDB, S3, CloudFront, SQS, SNS)
-- **Container Orchestration:** Kubernetes, Docker, Helm
-- **CDN & Edge:** Fastly CDN, CloudFlare
-- **Databases:** DynamoDB, Redis, PostgreSQL, MongoDB
-- **Message Queues:** Kafka, RabbitMQ, AWS SQS
-- **Monitoring:** Prometheus, Grafana, DataDog
-
-**Protocols & APIs:**
-- Protocol Buffers, gRPC, WebSockets
-- RESTful APIs, GraphQL
-- OpenAPI/Swagger
+- **Cloud:** [AWS](https://aws.amazon.com/) - 10+ years of experience
+- **Container Orchestration:** [Kubernetes](https://kubernetes.io/), [Docker](https://www.docker.com/), [Helm](https://helm.sh/)
+- **CDN & Edge:** [Fastly CDN](https://www.fastly.com/), [CloudFlare](https://www.cloudflare.com/)
+- **Databases:** [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/)
+- **Message Queues:** [Kafka](https://kafka.apache.org/), [NATS](https://nats.io/)
+- **Monitoring:** [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/), [DataDog](https://www.datadoghq.com/), [SigNoz](https://signoz.io/)
 
 **Specializations:**
 - High-performance backend systems at scale (120M+ users)
