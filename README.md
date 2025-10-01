@@ -27,7 +27,7 @@ Specializing in high-performance backend systems, real-time streaming infrastruc
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### [sebuf](https://github.com/SebastienMelki/sebuf) ⭐ 81
 
@@ -42,7 +42,7 @@ Specializing in high-performance backend systems, real-time streaming infrastruc
 [![Protobuf](https://img.shields.io/badge/Protobuf-336791?style=flat-square)](https://protobuf.dev/)
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### [causality](https://github.com/SebastienMelki/causality)
 
@@ -55,6 +55,21 @@ Specializing in high-performance backend systems, real-time streaming infrastruc
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![WASM](https://img.shields.io/badge/WASM-654FF0?style=flat-square&logo=webassembly&logoColor=white)](https://webassembly.org/)
+
+</td>
+<td width="33%">
+
+### [iskandaria](https://github.com/SebastienMelki/iskandaria)
+
+**Digital Library Platform**
+
+- Self-hosted media server
+- Music, movies, audiobooks
+- Built with Go and sebuf
+- Modern Alexandria-inspired
+
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
 
 </td>
 </tr>
