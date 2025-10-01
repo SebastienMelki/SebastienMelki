@@ -115,12 +115,19 @@ Team Leadership
 </table>
 </div>
 
-### Key Milestones
+### Career Timeline
 
 - **2024** - Led OSN+ platform complete rebuild in record time following Anghami-OSN merger
-- **2023** - Launched Anghami Live Radios for real-time social music streaming
+- **2023** - Promoted to VP Engineering at [Anghami](https://anghami.com)
 - **2022** - Architected Anghami Chats with WebSocket infrastructure
-- **2020** - GitHub Arctic Code Vault Contributor
+- **2021** - Key figure in Anghami's IPO - first MENA tech company on [NASDAQ](https://www.nasdaq.com/market-activity/stocks/angh)
+- **2019** - Promoted to Engineering Lead at Anghami
+- **2018** - Launched Anghami Live Radios for real-time social music streaming
+- **2017** - Joined [Anghami](https://anghami.com) as Backend Engineer
+- **2016** - Graduated from [McGill University](https://www.mcgill.ca)
+- **2015** - Accepted offers from [Amazon](https://amazon.com), [Meta](https://meta.com), and [Google](https://google.com) - chose Amazon
+- **2014** - Software Engineering Intern at [Ericsson](https://www.ericsson.com)
+- **2012** - Started Computer Engineering at [McGill University](https://www.mcgill.ca)
 
 ---
 
