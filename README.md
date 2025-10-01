@@ -1,15 +1,13 @@
 # Hi there, I'm Sebastien Melki 👋
 
 **VP Engineering at [Anghami](https://play.anghami.com) & [OSN+](https://osnplus.com)**
-*Building the future of entertainment streaming in MENA*
+*Leading backend engineering for 120M+ users across MENA's premier entertainment platform*
 
 ## About Me
 
-I'm a backend engineer passionate about building scalable systems and developer tools. After graduating from McGill University with a Computer Engineering degree (2012-2016), I discovered Anghami through a hidden console message on their website - a moment that changed my career trajectory from aspiring musician to tech leader.
+Backend engineer with a passion for building scalable distributed systems and developer tools. McGill Computer Engineering graduate (2012-2016) who discovered Anghami through a hidden console message on their website - a discovery that transformed my path from aspiring musician to engineering leader.
 
-Today, I lead engineering efforts at Anghami and OSN+, where we're creating the region's premier entertainment platform combining music and video streaming for over 120 million users.
-
-> "Engineering is not supposed to be hard, it's just meticulous sometimes."
+Currently leading the technical architecture and engineering teams at Anghami and OSN+, where we've built one of the world's most sophisticated music and video streaming platforms serving the entire MENA region.
 
 ## 🚀 Featured Projects
 
@@ -24,9 +22,27 @@ A modern self-hosted digital library inspired by Alexandria. Unified media repos
 
 ## 💻 Technical Expertise
 
-**Languages:** Go, Shell, Makefile
-**Technologies:** Protocol Buffers, gRPC, WebSockets, Redis, DynamoDB
-**Specialties:** Backend Architecture, SDK Development, Streaming Platforms, Type-safe APIs
+**Primary Language:** Go (Golang) - Expert level
+
+**Backend & Infrastructure:**
+- **Cloud:** AWS (EC2, ECS, Lambda, DynamoDB, S3, CloudFront, SQS, SNS)
+- **Container Orchestration:** Kubernetes, Docker, Helm
+- **CDN & Edge:** Fastly CDN, CloudFlare
+- **Databases:** DynamoDB, Redis, PostgreSQL, MongoDB
+- **Message Queues:** Kafka, RabbitMQ, AWS SQS
+- **Monitoring:** Prometheus, Grafana, DataDog
+
+**Protocols & APIs:**
+- Protocol Buffers, gRPC, WebSockets
+- RESTful APIs, GraphQL
+- OpenAPI/Swagger
+
+**Specializations:**
+- High-performance backend systems at scale (120M+ users)
+- Real-time streaming infrastructure
+- Developer tooling and SDK development
+- Distributed systems architecture
+- Low-latency content delivery
 
 ## 🏆 Notable Achievements
 
@@ -38,8 +54,8 @@ A modern self-hosted digital library inspired by Alexandria. Unified media repos
 ## 📚 Articles & Resources
 
 ### My Articles
-- [Deploying Ideas to Production](https://talks.anghami.com/deploying-ideas-to-production/) - Insights on meticulous engineering practices and deployment strategies
-- [Anghami Live Radios](https://talks.anghami.com/anghami-live-radios/) - Building real-time social music experiences
+- [Deploying Ideas to Production](https://talks.anghami.com/deploying-ideas-to-production/) - Deep dive into building and deploying production-ready features at scale
+- [Anghami Live Radios](https://talks.anghami.com/anghami-live-radios/) - Architecture of real-time social music streaming
 
 ### Projects
 - [sebuf - Go Protobuf Toolkit](https://github.com/SebastienMelki/sebuf)
@@ -56,10 +72,10 @@ A modern self-hosted digital library inspired by Alexandria. Unified media repos
 
 ## 🔭 Currently Working On
 
-- Scaling streaming infrastructure for 120M+ users
-- Building type-safe API tooling for Go developers
-- Cross-platform SDK development with WebAssembly
-- Integration of music and video streaming technologies
+- Scaling real-time streaming infrastructure to handle millions of concurrent users
+- Optimizing content delivery with edge computing and CDN strategies
+- Building next-generation developer tools for Go ecosystem
+- Architecting unified platform for music and video streaming convergence
 
 ## 📫 Let's Connect
 
@@ -67,4 +83,8 @@ Feel free to reach out on [LinkedIn](https://linkedin.com/in/sebastienmelki) or 
 
 ---
 
-*From hidden console messages to VP Engineering - sometimes the best opportunities come from curiosity and persistence.*
+### 📊 GitHub Stats
+
+![Sebastien's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastienMelki&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienMelki&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9)
