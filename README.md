@@ -1,85 +1,209 @@
-# Hi there, I'm Sebastien Melki 👋
+<div align="center">
 
-**VP Engineering at [Anghami](https://play.anghami.com) & [OSN+](https://osnplus.com)**
-*Leading backend engineering for 120M+ users across MENA's premier entertainment platform*
+  # Hi, I'm Sebastien Melki 👋
 
-## About Me
+  ### VP Engineering @ [Anghami](https://play.anghami.com) & [OSN+](https://osnplus.com)
 
-Backend engineer with a passion for building scalable distributed systems and developer tools. McGill Computer Engineering graduate (2012-2016) who discovered Anghami through a hidden console message on their website - a discovery that transformed my path from aspiring musician to engineering leader.
+  **🚀 Leading backend engineering for 120M+ users across MENA's premier entertainment platform**
 
-Currently leading the technical architecture and engineering teams at Anghami and OSN+, where we've built one of the world's most sophisticated music and video streaming platforms serving the entire MENA region.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastienmelki)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/melkisebastien)
+  [![Anghami](https://img.shields.io/badge/Anghami-FF0080?style=for-the-badge&logo=music&logoColor=white)](https://play.anghami.com)
+  [![OSN+](https://img.shields.io/badge/OSN+-000000?style=for-the-badge&logo=play&logoColor=white)](https://osnplus.com)
 
-## 🚀 Featured Projects
-
-### [sebuf](https://github.com/SebastienMelki/sebuf) ⭐ 81
-A comprehensive Go protobuf toolkit for building type-safe HTTP APIs. Features automatic request validation, mock server generation, and OpenAPI v3.1 documentation - all with zero runtime dependencies and 85% test coverage.
-
-### [causality](https://github.com/SebastienMelki/causality)
-Multi-platform SDK (Go + gomobile/WASM) for behavioral analysis and anomaly detection. Tracks custom events via protocol buffers across iOS, Android, and Web platforms to detect application modifications.
-
-### [iskandaria](https://github.com/SebastienMelki/iskandaria)
-A modern self-hosted digital library inspired by Alexandria. Unified media repository for music, movies, series, audiobooks, and podcasts - built with Go and powered by sebuf.
-
-## 💻 Technical Expertise
-
-**Primary Language:** [Go](https://golang.org/) - Expert level
-
-**Backend & Infrastructure:**
-- **Cloud:** [AWS](https://aws.amazon.com/) - 10+ years of experience
-- **Container Orchestration:** [Kubernetes](https://kubernetes.io/), [Docker](https://www.docker.com/), [Helm](https://helm.sh/)
-- **CDN & Edge:** [Fastly CDN](https://www.fastly.com/), [CloudFlare](https://www.cloudflare.com/)
-- **Databases:** [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/)
-- **Message Queues:** [Kafka](https://kafka.apache.org/), [NATS](https://nats.io/)
-- **Monitoring:** [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/), [DataDog](https://www.datadoghq.com/), [SigNoz](https://signoz.io/)
-
-**Specializations:**
-- High-performance backend systems at scale (120M+ users)
-- Real-time streaming infrastructure
-- Developer tooling and SDK development
-- Distributed systems architecture
-- Low-latency content delivery
-
-## 🏆 Notable Achievements
-
-- **OSN+ Platform Rebuild (2024):** Part of a 50-engineer team that rebuilt the entire OSN+ platform from scratch in just 4 months following the Anghami-OSN merger
-- **Anghami Live Radios:** Led development of real-time social music streaming feature enabling users to create and join live listening rooms
-- **Anghami Chats:** Architected instant messaging feature with musical integration using WebSockets and DynamoDB
-- **GitHub Arctic Code Vault Contributor:** Code preserved for future generations in the Arctic Code Vault
-
-## 📚 Articles & Resources
-
-### My Articles
-- [Deploying Ideas to Production](https://talks.anghami.com/deploying-ideas-to-production/) - Deep dive into building and deploying production-ready features at scale
-- [Anghami Live Radios](https://talks.anghami.com/anghami-live-radios/) - Architecture of real-time social music streaming
-
-### Projects
-- [sebuf - Go Protobuf Toolkit](https://github.com/SebastienMelki/sebuf)
-- [causality - Behavioral Analysis SDK](https://github.com/SebastienMelki/causality)
-- [iskandaria - Digital Library Platform](https://github.com/SebastienMelki/iskandaria)
-
-### Professional
-- [LinkedIn Profile](https://linkedin.com/in/sebastienmelki)
-- [Twitter/X](https://twitter.com/melkisebastien)
-
-### Companies
-- [Anghami - Music Streaming Platform](https://play.anghami.com)
-- [OSN+ - Video Streaming Service](https://osnplus.com)
-
-## 🔭 Currently Working On
-
-- Scaling real-time streaming infrastructure to handle millions of concurrent users
-- Optimizing content delivery with edge computing and CDN strategies
-- Building next-generation developer tools for Go ecosystem
-- Architecting unified platform for music and video streaming convergence
-
-## 📫 Let's Connect
-
-Feel free to reach out on [LinkedIn](https://linkedin.com/in/sebastienmelki) or check out my work at [Anghami](https://play.anghami.com) and [OSN+](https://osnplus.com).
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 💡 The Story
 
-![Sebastien's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastienMelki&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF)
+McGill Computer Engineering graduate who discovered Anghami through a **hidden console message** on their website. That curiosity-driven moment transformed my path from aspiring musician to engineering leader, now architecting systems that stream entertainment to millions across the Middle East.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienMelki&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9)
+---
+
+## 🎯 What I Do
+
+```go
+type Engineer struct {
+    Role        string
+    Users       int
+    Passion     []string
+    Experience  map[string]int
+}
+
+me := Engineer{
+    Role:  "VP Engineering @ Anghami & OSN+",
+    Users: 120_000_000,
+    Passion: []string{
+        "Distributed Systems",
+        "Developer Tools",
+        "High-Performance Backend",
+    },
+    Experience: map[string]int{
+        "Go":         8,
+        "AWS":        10,
+        "Streaming":  7,
+    },
+}
+```
+
+---
+
+## 🚀 Featured Open Source
+
+<table>
+<tr>
+<td width="50%">
+
+### [sebuf](https://github.com/SebastienMelki/sebuf) ⭐ 81
+
+**Go Protobuf Toolkit for Type-Safe APIs**
+
+```bash
+✓ Zero runtime dependencies
+✓ 85% test coverage
+✓ Mock server generation
+✓ OpenAPI v3.1 docs
+```
+
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
+[![Protocol Buffers](https://img.shields.io/badge/Protobuf-336791?style=flat&logo=protocol-buffers&logoColor=white)](https://protobuf.dev/)
+
+</td>
+<td width="50%">
+
+### [causality](https://github.com/SebastienMelki/causality)
+
+**Cross-Platform Behavioral Analysis SDK**
+
+```bash
+✓ iOS, Android, Web support
+✓ gomobile/WASM powered
+✓ Real-time anomaly detection
+✓ Event tracking via protobufs
+```
+
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
+[![WebAssembly](https://img.shields.io/badge/WASM-654FF0?style=flat&logo=webassembly&logoColor=white)](https://webassembly.org/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💪 Technical Arsenal
+
+<div align="center">
+
+### Core Stack
+
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![AWS](https://img.shields.io/badge/AWS_10+_years-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
+
+### Data & Streaming
+
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats&logoColor=white)](https://nats.io/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
+
+### Infrastructure & Monitoring
+
+[![Fastly](https://img.shields.io/badge/Fastly_CDN-FF282D?style=for-the-badge&logo=fastly&logoColor=white)](https://fastly.com/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
+[![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://datadoghq.com/)
+
+</div>
+
+---
+
+## 🏆 Impact & Achievements
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+**120M+**
+Active Users
+
+</td>
+<td align="center" width="33%">
+
+**4 Months**
+OSN+ Platform Rebuild
+
+</td>
+<td align="center" width="33%">
+
+**50 Engineers**
+Team Leadership
+
+</td>
+</tr>
+</table>
+</div>
+
+### Key Milestones
+
+- 🔄 **2024** - Led OSN+ platform complete rebuild in record time
+- 📻 **2023** - Launched Anghami Live Radios for real-time social music streaming
+- 💬 **2022** - Architected Anghami Chats with WebSocket infrastructure
+- 🧊 **2020** - GitHub Arctic Code Vault Contributor
+
+---
+
+## 📝 Technical Writing
+
+<table>
+<tr>
+<td>
+
+📖 **[Deploying Ideas to Production](https://talks.anghami.com/deploying-ideas-to-production/)**
+*Deep dive into building production-ready features at scale*
+
+</td>
+<td>
+
+📻 **[Anghami Live Radios](https://talks.anghami.com/anghami-live-radios/)**
+*Architecture of real-time social music streaming*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Current Focus
+
+- **🌍 Global Scale:** Engineering infrastructure for millions of concurrent streams
+- **⚡ Edge Computing:** Optimizing content delivery with CDN strategies
+- **🛠️ Developer Experience:** Building next-gen tools for the Go ecosystem
+- **🎵 Platform Convergence:** Unifying music and video streaming architectures
+
+---
+
+<div align="center">
+
+### 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=SebastienMelki&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastienMelki&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FE428E&currStreakLabel=C9D1D9" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 🤝 Let's Build Something Amazing
+
+  **Open to collaborating on high-impact projects in streaming, distributed systems, and developer tools**
+
+  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastienmelki)
+
+</div>
