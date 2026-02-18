@@ -175,10 +175,9 @@ Team Leadership
 - **2025** - Published [Rebuilding OSN+: A Technical Post-Mortem](https://talks.anghami.com/rebuilding-osn-a-technical-post-mortem/) detailing the platform rebuild
 - **2024** - Led OSN+ platform complete rebuild in record time following Anghami-OSN merger
 - **2023** - Promoted to VP Engineering at [Anghami](https://anghami.com)
-- **2022** - Architected Anghami Chats with WebSocket infrastructure
 - **2021** - Key figure in Anghami's IPO - first MENA tech company on [NASDAQ](https://www.nasdaq.com/market-activity/stocks/angh)
-- **2019** - Promoted to Engineering Lead at Anghami
-- **2018** - Launched Anghami Live Radios for real-time social music streaming
+- **2020** - Launched Anghami Live Radios for real-time social music streaming
+- **2019** - Architected Anghami Chats with WebSocket infrastructure; Promoted to Engineering Lead
 - **2017** - Joined [Anghami](https://anghami.com) as Backend Engineer
 - **2016** - Graduated from [McGill University](https://www.mcgill.ca)
 - **2015** - Accepted offers from [Amazon](https://amazon.com), [Meta](https://meta.com), and [Google](https://google.com) - chose Amazon
