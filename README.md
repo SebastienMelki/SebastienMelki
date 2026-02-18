@@ -29,7 +29,7 @@ Specializing in high-performance backend systems, real-time streaming infrastruc
 <tr>
 <td width="33%">
 
-### [sebuf](https://github.com/SebastienMelki/sebuf) ⭐ 81
+### [sebuf](https://github.com/SebastienMelki/sebuf) ⭐ 112
 
 **Go Protobuf Toolkit for Type-Safe APIs**
 
@@ -42,6 +42,38 @@ Specializing in high-performance backend systems, real-time streaming infrastruc
 [![Protobuf](https://img.shields.io/badge/Protobuf-336791?style=flat-square)](https://protobuf.dev/)
 
 </td>
+<td width="33%">
+
+### [worldmonitor](https://github.com/koala73/worldmonitor) ⭐ 7.2k
+
+**Real-Time Global Intelligence Dashboard**
+
+- AI-powered news aggregation
+- Geopolitical monitoring
+- Infrastructure tracking
+- Unified situational awareness
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org/)
+[![Contributor](https://img.shields.io/badge/Contributor-green?style=flat-square)]()
+
+</td>
+<td width="33%">
+
+### [alpaca-go](https://github.com/SebastienMelki/alpaca-go)
+
+**Go SDK for Alpaca Trading API**
+
+- Built with sebuf
+- Trading & Market Data APIs
+- Broker & Auth coverage
+- Protobuf-generated clients
+
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
+[![Protobuf](https://img.shields.io/badge/Protobuf-336791?style=flat-square)](https://protobuf.dev/)
+
+</td>
+</tr>
+<tr>
 <td width="33%">
 
 ### [causality](https://github.com/SebastienMelki/causality)
@@ -71,6 +103,8 @@ Specializing in high-performance backend systems, real-time streaming infrastruc
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
 
+</td>
+<td width="33%">
 </td>
 </tr>
 </table>
@@ -108,19 +142,25 @@ Specializing in high-performance backend systems, real-time streaming infrastruc
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **120M+**
 Active Users
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **4 Months**
 OSN+ Platform Rebuild
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
+
+**41% Growth**
+Video Subscribers
+
+</td>
+<td align="center" width="25%">
 
 **50 Engineers**
 Team Leadership
@@ -132,6 +172,7 @@ Team Leadership
 
 ### Career Timeline
 
+- **2025** - Published [Rebuilding OSN+: A Technical Post-Mortem](https://talks.anghami.com/rebuilding-osn-a-technical-post-mortem/) detailing the platform rebuild
 - **2024** - Led OSN+ platform complete rebuild in record time following Anghami-OSN merger
 - **2023** - Promoted to VP Engineering at [Anghami](https://anghami.com)
 - **2022** - Architected Anghami Chats with WebSocket infrastructure
@@ -148,6 +189,9 @@ Team Leadership
 
 ## Technical Writing
 
+📖 **[Rebuilding OSN+: A Technical Post-Mortem](https://talks.anghami.com/rebuilding-osn-a-technical-post-mortem/)**
+How we rebuilt OSN+ from scratch in 4 months — modular monolith architecture, protobuf contracts, and the birth of sebuf
+
 📖 **[Deploying Ideas to Production](https://talks.anghami.com/deploying-ideas-to-production/)**
 Deep dive into building and deploying production-ready features at scale
 
@@ -159,8 +203,9 @@ Architecture of real-time social music streaming
 ## Current Focus
 
 - **Global Scale:** Engineering infrastructure for millions of concurrent streams
+- **Open Source Tooling:** Evolving [sebuf](https://github.com/SebastienMelki/sebuf) as a comprehensive Go protobuf toolkit
+- **Global Intelligence:** Contributing to [worldmonitor](https://github.com/koala73/worldmonitor) for real-time situational awareness
 - **Edge Computing:** Optimizing content delivery with CDN strategies
-- **Developer Experience:** Building next-gen tools for the Go ecosystem
 - **Platform Convergence:** Unifying music and video streaming architectures
 
 ---
