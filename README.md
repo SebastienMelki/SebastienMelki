@@ -2,7 +2,7 @@
 
   # Sebastien Melki
 
-  ### VP @ [Sarwa](https://www.sarwa.co) | ex-VP Engineering @ [Anghami](https://play.anghami.com) & [OSN+](https://osnplus.com)
+  ### VP Engineering @ [Sarwa](https://www.sarwa.co) | ex-VP Engineering @ [Anghami](https://play.anghami.com) & [OSN+](https://osnplus.com)
 
   **Building the future of digital wealth management in MENA**
 
