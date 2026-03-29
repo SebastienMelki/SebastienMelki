@@ -2,14 +2,13 @@
 
   # Sebastien Melki
 
-  ### VP Engineering @ [Anghami](https://play.anghami.com) & [OSN+](https://osnplus.com)
+  ### VP @ [Sarwa](https://www.sarwa.co) | ex-VP Engineering @ [Anghami](https://play.anghami.com) & [OSN+](https://osnplus.com)
 
-  **Leading backend engineering for 120M+ users across MENA's premier entertainment platform**
+  **Building the future of digital wealth management in MENA**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastienmelki)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/melkisebastien)
-  [![Anghami](https://img.shields.io/badge/Anghami-FF0080?style=flat-square)](https://play.anghami.com)
-  [![OSN+](https://img.shields.io/badge/OSN+-1a1a1a?style=flat-square)](https://osnplus.com)
+  [![Sarwa](https://img.shields.io/badge/Sarwa-00C48C?style=flat-square)](https://www.sarwa.co)
 
 </div>
 
@@ -17,9 +16,9 @@
 
 ## About
 
-Backend engineer and technical leader with a passion for building scalable distributed systems. McGill Computer Engineering graduate (2012-2016) currently architecting streaming infrastructure that powers entertainment for millions across the Middle East and North Africa.
+Backend engineer and technical leader with a passion for building scalable distributed systems. McGill Computer Engineering graduate (2012-2016) currently leading engineering at [Sarwa](https://www.sarwa.co), MENA's leading digital wealth management platform.
 
-Specializing in high-performance backend systems, real-time streaming infrastructure, and developer tooling. Leading engineering teams at the intersection of music and video streaming technologies.
+Previously VP Engineering at Anghami & OSN+, where I led the engineering organization across MENA's premier entertainment platform serving 120M+ users. Specializing in high-performance backend systems, distributed infrastructure, and developer tooling.
 
 ---
 
@@ -29,12 +28,12 @@ Specializing in high-performance backend systems, real-time streaming infrastruc
 <tr>
 <td width="33%">
 
-### [sebuf](https://github.com/SebastienMelki/sebuf) ⭐ 112
+### [sebuf](https://github.com/SebastienMelki/sebuf) ⭐ 115
 
-**Go Protobuf Toolkit for Type-Safe APIs**
+**Go Protobuf Toolkit for Type-Safe HTTP APIs**
 
-- Zero runtime dependencies
-- 85% test coverage
+- Automatic validation
+- Low dependency footprint
 - Mock server generation
 - OpenAPI v3.1 documentation
 
@@ -44,7 +43,7 @@ Specializing in high-performance backend systems, real-time streaming infrastruc
 </td>
 <td width="33%">
 
-### [worldmonitor](https://github.com/koala73/worldmonitor) ⭐ 7.2k
+### [worldmonitor](https://github.com/koala73/worldmonitor) ⭐ 45.1k
 
 **Real-Time Global Intelligence Dashboard**
 
@@ -59,14 +58,14 @@ Specializing in high-performance backend systems, real-time streaming infrastruc
 </td>
 <td width="33%">
 
-### [alpaca-go](https://github.com/SebastienMelki/alpaca-go)
+### [alpaca-go](https://github.com/SebastienMelki/alpaca-go) ⭐ 5
 
 **Go SDK for Alpaca Trading API**
 
 - Built with sebuf
+- sebuf-generated HTTP handlers
 - Trading & Market Data APIs
 - Broker & Auth coverage
-- Protobuf-generated clients
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![Protobuf](https://img.shields.io/badge/Protobuf-336791?style=flat-square)](https://protobuf.dev/)
@@ -172,6 +171,7 @@ Team Leadership
 
 ### Career Timeline
 
+- **2026** - Joined [Sarwa](https://www.sarwa.co) as VP, leading engineering for MENA's digital wealth management platform
 - **2025** - Published [Rebuilding OSN+: A Technical Post-Mortem](https://talks.anghami.com/rebuilding-osn-a-technical-post-mortem/) detailing the platform rebuild
 - **2024** - Led OSN+ platform complete rebuild in record time following Anghami-OSN merger
 - **2023** - Promoted to VP Engineering at [Anghami](https://anghami.com)
@@ -201,11 +201,10 @@ Architecture of real-time social music streaming
 
 ## Current Focus
 
-- **Global Scale:** Engineering infrastructure for millions of concurrent streams
+- **Fintech Infrastructure:** Engineering scalable systems for digital wealth management at [Sarwa](https://www.sarwa.co)
 - **Open Source Tooling:** Evolving [sebuf](https://github.com/SebastienMelki/sebuf) as a comprehensive Go protobuf toolkit
 - **Global Intelligence:** Contributing to [worldmonitor](https://github.com/koala73/worldmonitor) for real-time situational awareness
-- **Edge Computing:** Optimizing content delivery with CDN strategies
-- **Platform Convergence:** Unifying music and video streaming architectures
+- **Platform Engineering:** Building reliable, high-throughput financial services infrastructure
 
 ---
 
@@ -224,7 +223,7 @@ Architecture of real-time social music streaming
 
   ### Let's Connect
 
-  **Open to collaborating on high-impact projects in streaming, distributed systems, and developer tools**
+  **Open to collaborating on high-impact projects in fintech, distributed systems, and developer tools**
 
   [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastienmelki)
 
