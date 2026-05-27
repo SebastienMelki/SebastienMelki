@@ -2,13 +2,9 @@
 
   # Sebastien Melki
 
-  ### VP Engineering @ [Sarwa](https://www.sarwa.co) | ex-VP Engineering @ [Anghami](https://play.anghami.com) & [OSN+](https://osnplus.com)
+  ### Engineer and musician. I make software and play music.
 
-  **Building the future of digital wealth management in MENA**
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastienmelki)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/melkisebastien)
-  [![Sarwa](https://img.shields.io/badge/Sarwa-00C48C?style=flat-square)](https://www.sarwa.co)
+  [seb.smelki.com](https://seb.smelki.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/sebastienmelki) &nbsp;·&nbsp; [Anghami Talks](https://talks.anghami.com/author/sebastienmelki/)
 
 </div>
 
@@ -16,215 +12,76 @@
 
 ## About
 
-Backend engineer and technical leader with a passion for building scalable distributed systems. McGill Computer Engineering graduate (2012-2016) currently leading engineering at [Sarwa](https://www.sarwa.co), MENA's leading digital wealth management platform.
+I build software and play music.
 
-Previously VP Engineering at Anghami & OSN+, where I led the engineering organization across MENA's premier entertainment platform serving 120M+ users. Specializing in high-performance backend systems, distributed infrastructure, and developer tooling.
+Currently working in engineering at [Sarwa](https://www.sarwa.co), a digital wealth management platform in MENA. Before that, I spent nearly a decade at [Anghami](https://anghami.com) and [OSN+](https://osnplus.com), where I collaborated on a lot of fun projects across music streaming and entertainment.
 
----
+Studied computer engineering at [McGill](https://www.mcgill.ca). Originally from Lebanon.
 
-## Featured Open Source
+In parallel, music is a big part of my life. Currently with [Shakoosh](https://www.instagram.com/shakooshband) and [AÏA](https://www.instagram.com/projectaia.lb/). Previously [Turbulence](https://www.youtube.com/watch?v=rFc_6UZmAWM) (prog metal from Lebanon).
 
-<table>
-<tr>
-<td width="33%">
-
-### [sebuf](https://github.com/SebastienMelki/sebuf) ⭐ 115
-
-**Go Protobuf Toolkit for Type-Safe HTTP APIs**
-
-- Automatic validation
-- Low dependency footprint
-- Mock server generation
-- OpenAPI v3.1 documentation
-
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
-[![Protobuf](https://img.shields.io/badge/Protobuf-336791?style=flat-square)](https://protobuf.dev/)
-
-</td>
-<td width="33%">
-
-### [worldmonitor](https://github.com/koala73/worldmonitor) ⭐ 45.1k
-
-**Real-Time Global Intelligence Dashboard**
-
-- AI-powered news aggregation
-- Geopolitical monitoring
-- Infrastructure tracking
-- Unified situational awareness
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org/)
-[![Contributor](https://img.shields.io/badge/Contributor-green?style=flat-square)]()
-
-</td>
-<td width="33%">
-
-### [alpaca-go](https://github.com/SebastienMelki/alpaca-go) ⭐ 5
-
-**Go SDK for Alpaca Trading API**
-
-- Built with sebuf
-- sebuf-generated HTTP handlers
-- Trading & Market Data APIs
-- Broker & Auth coverage
-
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
-[![Protobuf](https://img.shields.io/badge/Protobuf-336791?style=flat-square)](https://protobuf.dev/)
-
-</td>
-</tr>
-<tr>
-<td width="33%">
-
-### [causality](https://github.com/SebastienMelki/causality)
-
-**Cross-Platform Behavioral Analysis SDK**
-
-- iOS, Android, Web support
-- gomobile/WASM powered
-- Real-time anomaly detection
-- Event tracking via protobufs
-
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
-[![WASM](https://img.shields.io/badge/WASM-654FF0?style=flat-square&logo=webassembly&logoColor=white)](https://webassembly.org/)
-
-</td>
-<td width="33%">
-
-### [iskandaria](https://github.com/SebastienMelki/iskandaria)
-
-**Digital Library Platform**
-
-- Self-hosted media server
-- Music, movies, audiobooks
-- Built with Go and sebuf
-- Modern Alexandria-inspired
-
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
-
-</td>
-<td width="33%">
-</td>
-</tr>
-</table>
+For the longer story, projects, writing, and music: [seb.smelki.com](https://seb.smelki.com).
 
 ---
 
-## Technical Stack
+## Projects
 
-### Languages & Core
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
-[![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)](https://helm.sh/)
+### [sebuf](https://github.com/SebastienMelki/sebuf) · ⭐ 119
 
-### Data & Messaging
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-[![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square)](https://nats.io/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com/)
+Go protobuf toolkit for building type-safe HTTP APIs. Handlers, validation, OpenAPI docs, and client SDKs — all generated from `.proto` files. Designed for small, dependency-light services that still feel rigorous.
 
-### Infrastructure & Monitoring
-[![Fastly](https://img.shields.io/badge/Fastly-FF282D?style=flat-square)](https://fastly.com/)
-[![CloudFlare](https://img.shields.io/badge/CloudFlare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://cloudflare.com/)
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/)
-[![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=flat-square&logo=datadog&logoColor=white)](https://datadoghq.com/)
-[![SigNoz](https://img.shields.io/badge/SigNoz-F2542D?style=flat-square)](https://signoz.io/)
+### [worldmonitor](https://worldmonitor.app) · ⭐ ~55k
 
----
+Real-time global intelligence dashboard. Synthesizes news, markets, commodities, supply chains, and conflicts with AI into one situational-awareness view. Started as a weekend project, now one of the most-starred dashboards on GitHub.
 
-## Impact & Achievements
+### [alpaca-go](https://github.com/SebastienMelki/alpaca-go) · ⭐ 5
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
+Go SDK for the Alpaca Trading API, generated from `sebuf` contracts. Built to scratch my own itch around algorithmic trading experiments.
 
-**120M+**
-Active Users
+### Other things I've built
 
-</td>
-<td align="center" width="25%">
-
-**4 Months**
-OSN+ Platform Rebuild
-
-</td>
-<td align="center" width="25%">
-
-**41% Growth**
-Video Subscribers
-
-</td>
-<td align="center" width="25%">
-
-**50 Engineers**
-Team Leadership
-
-</td>
-</tr>
-</table>
-</div>
-
-### Career Timeline
-
-- **2026** - Joined [Sarwa](https://www.sarwa.co) as VP, leading engineering for MENA's digital wealth management platform
-- **2025** - Published [Rebuilding OSN+: A Technical Post-Mortem](https://talks.anghami.com/rebuilding-osn-a-technical-post-mortem/) detailing the platform rebuild
-- **2024** - Led OSN+ platform complete rebuild in record time following Anghami-OSN merger
-- **2023** - Promoted to VP Engineering at [Anghami](https://anghami.com)
-- **2021** - Key figure in Anghami's IPO - first MENA tech company on [NASDAQ](https://www.nasdaq.com/market-activity/stocks/angh)
-- **2020** - Launched Anghami Live Radios for real-time social music streaming
-- **2019** - Architected Anghami Chats with WebSocket infrastructure; Promoted to Engineering Lead
-- **2017** - Joined [Anghami](https://anghami.com) as Backend Engineer
-- **2016** - Graduated from [McGill University](https://www.mcgill.ca)
-- **2015** - Accepted offers from [Amazon](https://amazon.com), [Meta](https://meta.com), and [Google](https://google.com) - chose Amazon
-- **2014** - Software Engineering Intern at [Ericsson](https://www.ericsson.com)
-- **2012** - Started Computer Engineering at [McGill University](https://www.mcgill.ca)
+- [agentsmith](https://github.com/SebastienMelki/agentsmith) — lightweight MCP federation gateway with per-backend secret scoping
+- [causality](https://github.com/SebastienMelki/causality) — multi-platform SDK (Go + gomobile/WASM) for detecting app tampering via behavioral baselines
+- [iskandaria](https://github.com/SebastienMelki/iskandaria) — self-hosted media library for music, movies, series, audiobooks, and podcasts
+- [dawlati](https://github.com/SebastienMelki/dawlati) — unified digital platform for Lebanese government services 🇱🇧
+- [template](https://github.com/SebastienMelki/template) — full-stack project template (Go DDD + React + Pulumi + sebuf contracts)
+- [sebpage](https://github.com/SebastienMelki/sebpage) — this person's personal website (Go + templ)
 
 ---
 
-## Technical Writing
+## Writing
 
-📖 **[Rebuilding OSN+: A Technical Post-Mortem](https://talks.anghami.com/rebuilding-osn-a-technical-post-mortem/)**
-How we rebuilt OSN+ from scratch in 4 months — modular monolith architecture, protobuf contracts, and the birth of sebuf
+A few things I've put on the Anghami tech blog:
 
-📖 **[Deploying Ideas to Production](https://talks.anghami.com/deploying-ideas-to-production/)**
-Deep dive into building and deploying production-ready features at scale
+- [Rebuilding OSN+: A Technical Post-Mortem](https://talks.anghami.com/rebuilding-osn-a-technical-post-mortem/) — modular monolith, protobuf contracts, and the birth of sebuf
+- [Anghami Live Radios](https://talks.anghami.com/anghami-live-radios/) — architecture of real-time social music streaming
+- [How we shifted to Work from Home on #Covid19 with little notice](https://talks.anghami.com/anghami-how-we-shifted-to-work-from-home-on-covid19-with-little-notice/)
+- [Deploying Ideas to Production](https://talks.anghami.com/deploying-ideas-to-production/)
 
-📻 **[Anghami Live Radios](https://talks.anghami.com/anghami-live-radios/)**
-Architecture of real-time social music streaming
+Full list at [seb.smelki.com/writing](https://seb.smelki.com/writing).
 
 ---
 
-## Current Focus
+## Music
 
-- **Fintech Infrastructure:** Engineering scalable systems for digital wealth management at [Sarwa](https://www.sarwa.co)
-- **Open Source Tooling:** Evolving [sebuf](https://github.com/SebastienMelki/sebuf) as a comprehensive Go protobuf toolkit
-- **Global Intelligence:** Contributing to [worldmonitor](https://github.com/koala73/worldmonitor) for real-time situational awareness
-- **Platform Engineering:** Building reliable, high-throughput financial services infrastructure
+- [Shakoosh](https://www.instagram.com/shakooshband) — current band
+- [AÏA](https://www.instagram.com/projectaia.lb/) — current project
+- [Turbulence](https://www.youtube.com/watch?v=rFc_6UZmAWM) — past prog metal band from Lebanon, known for split-screen cover videos
+- Plus the occasional guest feature on other people's tracks
+
+Videos and links at [seb.smelki.com/music](https://seb.smelki.com/music).
+
+---
+
+## Stack I usually reach for
+
+Go, Protocol Buffers, PostgreSQL, Redis, Kafka, NATS, Kubernetes, Docker, AWS, Cloudflare, Prometheus, Grafana, DataDog. TypeScript and React when the frontend asks for it.
 
 ---
 
 <div align="center">
-
-### GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=SebastienMelki&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastienMelki&theme=github-dark-blue&hide_border=true&background=0D1117" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-
-  ### Let's Connect
-
-  **Open to collaborating on high-impact projects in fintech, distributed systems, and developer tools**
-
-  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastienmelki)
 
 </div>
